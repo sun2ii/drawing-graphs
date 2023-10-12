@@ -20,7 +20,7 @@ The goal is not to be like the computer, but to deeply understand the fundamenta
 
 Just as if you were to study the nature of a dog by repeating multiple experiments, you will also need to study the nature of a computer by repeating multiple experiments (in this case, it's copy pasting the answer and running through the debugger). Not only is this necessary, it is going to be the basis of how we learn algorithms.
 
-But your job and the hard work is grabbing a piece of pen and paper, or your ipad and draw the graphs.
+But your job and the hard work is grabbing a piece of pen and paper, or your ipad and draw the graphs, recursion tree, call stack. It would be useful to think of this as an art class rather than a computer science class.
 
 ## Laws
 Here are the 2 laws to go through recursive problems.
